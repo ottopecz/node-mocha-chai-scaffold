@@ -1,0 +1,24 @@
+{
+  "name": "node-server-scaffold",
+  "version": "0.0.1",
+  "description": "node server scaffold",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt mochaTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ottopecz/node-server-scaffold.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "scaffold"
+  ],
+  "author": "Otto Pecz, <otto.pecz.developer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ottopecz/node-server-scaffold/issues"
+  },
+  "homepage": "https://github.com/ottopecz/node-server-scaffold#readme"
+}
