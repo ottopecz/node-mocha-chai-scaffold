@@ -1,4 +1,4 @@
-# Node Server Scaffold
+# Node Mocha Chai Scaffold
 
 ## Setup
 `npm install`
