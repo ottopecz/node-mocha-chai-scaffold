@@ -1,26 +1,27 @@
 {
-  "name": "node-server-scaffold",
+  "name": "node-mocha-chai-scaffold",
   "version": "0.0.1",
-  "description": "node server scaffold",
+  "description": "node mocha chai scaffold",
   "main": "index.js",
   "scripts": {
     "test": "grunt mochaTest"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ottopecz/node-server-scaffold.git"
+    "url": "git+ssh://git@github.com/ottopecz/node-mocha-chai-scaffold.git"
   },
   "keywords": [
     "node",
-    "server",
+    "mocha",
+    "chai",
     "scaffold"
   ],
   "author": "Otto Pecz, <otto.pecz.developer@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ottopecz/node-server-scaffold/issues"
+    "url": "https://github.com/ottopecz/node-mocha-chai-scaffold/issues"
   },
-  "homepage": "https://github.com/ottopecz/node-server-scaffold#readme",
+  "homepage": "https://github.com/ottopecz/node-mocha-chai-scaffold#readme",
   "devDependencies": {
     "chai": "^3.3.0",
     "grunt": "^0.4.5",
